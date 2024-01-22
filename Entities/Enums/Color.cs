@@ -1,9 +1,9 @@
 namespace AtividadeAbstrata.Entities
 {
-    public enum Color : int
+    public enum Color 
     {
-        Black = 1,
-        Blue = 2,
-        Red = 3
+        Black,
+        Blue,
+        Red 
     }
 }
